@@ -1,4 +1,4 @@
-package solid.responsible.example1.compliance;
+package solid.sre.example1.compliance;
 
 import java.util.Scanner;
 public class InputProcessor {
